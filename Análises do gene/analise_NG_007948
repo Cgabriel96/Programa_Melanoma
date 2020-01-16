@@ -1,0 +1,107 @@
+Tipo de feature: source
+Localização: [0:19221](+)
+Qualifiers: OrderedDict([('organism', ['Homo sapiens']), ('mol_type', ['genomic DNA']), ('db_xref', ['taxon:9606']), ('chromosome', ['22']), ('map', ['22q13.1'])])
+
+Tipo de feature: gene
+Localização: [<0:>19221](-)
+Qualifiers: OrderedDict([('gene', ['POLR2F']), ('gene_synonym', ['HRBP14.4; POLRF; RPABC14.4; RPABC2; RPB14.4; RPB6; RPC15']), ('note', ['RNA polymerase II subunit F']), ('db_xref', ['GeneID:5435', 'HGNC:HGNC:9193', 'MIM:604414'])])
+
+Tipo de feature: gene
+Localização: [679:739](-)
+Qualifiers: OrderedDict([('gene', ['MIR4534']), ('note', ['microRNA 4534']), ('db_xref', ['GeneID:100616146', 'HGNC:HGNC:41692', 'miRBase:MI0016901'])])
+
+Tipo de feature: precursor_RNA
+Localização: [679:739](-)
+Qualifiers: OrderedDict([('gene', ['MIR4534']), ('product', ['microRNA 4534']), ('transcript_id', ['NR_039759.1']), ('db_xref', ['GeneID:100616146', 'HGNC:HGNC:41692', 'miRBase:MI0016901'])])
+
+Tipo de feature: ncRNA
+Localização: [687:704](-)
+Qualifiers: OrderedDict([('ncRNA_class', ['miRNA']), ('gene', ['MIR4534']), ('product', ['hsa-miR-4534']), ('db_xref', ['miRBase:MIMAT0019073', 'GeneID:100616146', 'HGNC:HGNC:41692', 'miRBase:MI0016901'])])
+
+Tipo de feature: mRNA
+Localização: [<3220:>3379](-)
+Qualifiers: OrderedDict([('gene', ['POLR2F']), ('gene_synonym', ['HRBP14.4; POLRF; RPABC14.4; RPABC2; RPB14.4; RPB6; RPC15']), ('product', ['RNA polymerase II subunit F, transcript variant 3']), ('inference', ['similar to RNA sequence, mRNA (same species):RefSeq:NM_001301130.2']), ('exception', ['annotated by transcript or proteomic data']), ('transcript_id', ['NM_001301130.2']), ('db_xref', ['GeneID:5435', 'HGNC:HGNC:9193', 'MIM:604414'])])
+
+Tipo de feature: CDS
+Localização: [<3220:>3379](-)
+Qualifiers: OrderedDict([('gene', ['POLR2F']), ('gene_synonym', ['HRBP14.4; POLRF; RPABC14.4; RPABC2; RPB14.4; RPB6; RPC15']), ('EC_number', ['2.7.7.6']), ('inference', ['similar to AA sequence (same species):RefSeq:NP_001288059.1']), ('exception', ['annotated by transcript or proteomic data']), ('note', ['isoform 3 is encoded by transcript variant 3; DNA-directed RNA polymerases I, II, and III subunit RPABC2; RNA Polymerase II subunit 14.4 kD; DNA-directed RNA polymerase II subunit F; RNA polymerases I, II, and III subunit ABC2; DNA-directed RNA polymerases I, II, and III 14.4 kDa polypeptide; polymerase (RNA) II (DNA directed) polypeptide F; polymerase (RNA) II subunit F']), ('codon_start', ['1']), ('product', ['DNA-directed RNA polymerases I, II, and III subunit RPABC2 isoform 3']), ('protein_id', ['NP_001288059.1']), ('db_xref', ['CCDS:CCDS77673.1', 'GeneID:5435', 'HGNC:HGNC:9193', 'MIM:604414']), ('translation', ['MSDNEDNFDGDDFDDVEEDEGLDDLENAEEEGQENVEILPSGERPQANQKRITTPYMTKYERARVLGTRALQIAMCAPVMVELEGETDPLLIAMKELNARSASEPPGEEPPWMDRGTRDEHLPSCPGCPAVASNTRCCPPAACLPGISLSRRRRLREE'])])
+
+Tipo de feature: gene
+Localização: [5000:17221](+)
+Qualifiers: OrderedDict([('gene', ['SOX10']), ('gene_synonym', ['DOM; PCWH; WS2E; WS4; WS4C']), ('note', ['SRY-box transcription factor 10']), ('db_xref', ['GeneID:6663', 'HGNC:HGNC:11190', 'MIM:602229'])])
+
+Tipo de feature: mRNA
+Localização: join{[5000:5194](+), [5664:6176](+), [11397:11666](+), [15334:17221](+)}
+Qualifiers: OrderedDict([('gene', ['SOX10']), ('gene_synonym', ['DOM; PCWH; WS2E; WS4; WS4C']), ('product', ['SRY-box transcription factor 10']), ('transcript_id', ['NM_006941.3']), ('db_xref', ['GeneID:6663', 'LRG:t1', 'HGNC:HGNC:11190', 'MIM:602229'])])
+
+Tipo de feature: exon
+Localização: [5000:5194](+)
+Qualifiers: OrderedDict([('gene', ['SOX10']), ('gene_synonym', ['DOM; PCWH; WS2E; WS4; WS4C']), ('inference', ['alignment:Splign:1.39.8']), ('number', ['1'])])
+
+Tipo de feature: exon
+Localização: [5664:6176](+)
+Qualifiers: OrderedDict([('gene', ['SOX10']), ('gene_synonym', ['DOM; PCWH; WS2E; WS4; WS4C']), ('inference', ['alignment:Splign:1.39.8']), ('number', ['2'])])
+
+Tipo de feature: CDS
+Localização: join{[5748:6176](+), [11397:11666](+), [15334:16038](+)}
+Qualifiers: OrderedDict([('gene', ['SOX10']), ('gene_synonym', ['DOM; PCWH; WS2E; WS4; WS4C']), ('note', ['SRY-related HMG-box gene 10; dominant megacolon, mouse, human homolog of; SRY (sex determining region Y)-box 10; SRY-box 10']), ('codon_start', ['1']), ('product', ['transcription factor SOX-10']), ('protein_id', ['NP_008872.1']), ('db_xref', ['CCDS:CCDS13964.1', 'GeneID:6663', 'LRG:p1', 'HGNC:HGNC:11190', 'MIM:602229']), ('translation', ['MAEEQDLSEVELSPVGSEEPRCLSPGSAPSLGPDGGGGGSGLRASPGPGELGKVKKEQQDGEADDDKFPVCIREAVSQVLSGYDWTLVPMPVRVNGASKSKPHVKRPMNAFMVWAQAARRKLADQYPHLHNAELSKTLGKLWRLLNESDKRPFIEEAERLRMQHKKDHPDYKYQPRRRKNGKAAQGEAECPGGEAEQGGTAAIQAHYKSAHLDHRHPGEGSPMSDGNPEHPSGQSHGPPTPPTTPKTELQSGKADPKRDGRSMGEGGKPHIDFGNVDIGEISHEVMSNMETFDVAELDQYLPPNGHPGHVSSYSAAGYGLGSALAVASGHSAWISKPPGVALPTVSPPGVDAKAQVKTETAGPQGPPHYTDQPSTSQIAYTSLSLPHYGSAFPSISRPQFDYSDHQPSGPYYGHSGQASGLYSAFSYMGPSQRPLYTAISDPSPSGPQSHSPTHWEQPVYTTLSRP'])])
+
+Tipo de feature: exon
+Localização: [11397:11666](+)
+Qualifiers: OrderedDict([('gene', ['SOX10']), ('gene_synonym', ['DOM; PCWH; WS2E; WS4; WS4C']), ('inference', ['alignment:Splign:1.39.8']), ('number', ['3'])])
+
+Tipo de feature: exon
+Localização: [15334:17221](+)
+Qualifiers: OrderedDict([('gene', ['SOX10']), ('gene_synonym', ['DOM; PCWH; WS2E; WS4; WS4C']), ('inference', ['alignment:Splign:1.39.8']), ('number', ['4'])])
+
+Tipo de feature: mRNA
+Localização: [<17222:>17303](-)
+Qualifiers: OrderedDict([('gene', ['POLR2F']), ('gene_synonym', ['HRBP14.4; POLRF; RPABC14.4; RPABC2; RPB14.4; RPB6; RPC15']), ('product', ['RNA polymerase II subunit F, transcript variant 6']), ('inference', ['similar to RNA sequence, mRNA (same species):RefSeq:NM_001363825.1']), ('exception', ['annotated by transcript or proteomic data']), ('transcript_id', ['NM_001363825.1']), ('db_xref', ['GeneID:5435', 'HGNC:HGNC:9193', 'MIM:604414'])])
+
+Tipo de feature: CDS
+Localização: [17260:>17303](-)
+Qualifiers: OrderedDict([('gene', ['POLR2F']), ('gene_synonym', ['HRBP14.4; POLRF; RPABC14.4; RPABC2; RPB14.4; RPB6; RPC15']), ('EC_number', ['2.7.7.6']), ('inference', ['similar to AA sequence (same species):RefSeq:NP_001350754.1']), ('exception', ['annotated by transcript or proteomic data']), ('note', ['isoform 5 is encoded by transcript variant 6; DNA-directed RNA polymerases I, II, and III subunit RPABC2; RNA Polymerase II subunit 14.4 kD; DNA-directed RNA polymerase II subunit F; RNA polymerases I, II, and III subunit ABC2; DNA-directed RNA polymerases I, II, and III 14.4 kDa polypeptide; polymerase (RNA) II (DNA directed) polypeptide F; polymerase (RNA) II subunit F']), ('codon_start', ['2']), ('product', ['DNA-directed RNA polymerases I, II, and III subunit RPABC2 isoform 5']), ('protein_id', ['NP_001350754.1']), ('db_xref', ['CCDS:CCDS87025.1', 'GeneID:5435', 'HGNC:HGNC:9193', 'MIM:604414']), ('translation', ['MSDNEDNFDGDDFDDVEEDEGLDDLENAEEEGQENVEILPSGERPQANQKRITTPYMTKYERARVLGTRALQIAMCAPVMVELEGETDPLLIAMKELNYFQKAFEEAPVQG'])])
+
+O gene em análise tem: 1 features do tipo source
+O gene em análise tem: 3 features do tipo gene
+O gene em análise tem: 1 features do tipo precursor_RNA
+O gene em análise tem: 1 features do tipo ncRNA
+O gene em análise tem: 3 features do tipo mRNA
+O gene em análise tem: 3 features do tipo CDS
+O gene em análise tem: 4 features do tipo exon
+
+molecule_type:DNA
+
+topology:linear
+
+data_file_division:PRI
+
+date:03-SEP-2019
+
+accessions:['NG_007948']
+
+sequence_version:1
+
+keywords:['RefSeq', 'RefSeqGene']
+
+source:Homo sapiens (human)
+
+organism:Homo sapiens
+
+taxonomy:['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+
+references:[Reference(title='Leukodystrophy Overview', ...), Reference(title='Hirschsprung Disease Overview', ...), Reference(title='Isolated Gonadotropin-Releasing Hormone (GnRH) Deficiency', ...)]
+
+comment:REVIEWED REFSEQ: This record has been curated by NCBI staff in
+collaboration with Valerie Delague. The reference sequence was
+derived from AL031587.3.
+This sequence is a reference standard in the RefSeqGene project.
+Summary: This gene encodes a member of the SOX (SRY-related
+HMG-box) family of transcription factors involved in the regulation
+of embryonic development and in the determination of the cell fate.
+The encoded protein may act as a transcriptional activator after
+forming a protein complex with other proteins. This protein acts as
+a nucleocytoplasmic shuttle protein and is important for neural
+crest and peripheral nervous system development. Mutations in this
+gene are associated with Waardenburg-Shah and
+Waardenburg-Hirschsprung disease. [provided by RefSeq, Jul 2008].

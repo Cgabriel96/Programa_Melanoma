@@ -1,0 +1,100 @@
+Tipo de feature: source
+Localização: [0:29882](+)
+Qualifiers: OrderedDict([('organism', ['Homo sapiens']), ('mol_type', ['genomic DNA']), ('db_xref', ['taxon:9606']), ('chromosome', ['6']), ('map', ['6p24.3'])])
+
+Tipo de feature: gene
+Localização: [8395:12247](-)
+Qualifiers: OrderedDict([('gene', ['TFAP2A-AS1']), ('note', ['TFAP2A antisense RNA 1']), ('db_xref', ['GeneID:100130275', 'HGNC:HGNC:40579'])])
+
+Tipo de feature: ncRNA
+Localização: join{[12197:12247](-), [9513:9884](-), [8395:9278](-)}
+Qualifiers: OrderedDict([('ncRNA_class', ['lncRNA']), ('gene', ['TFAP2A-AS1']), ('product', ['TFAP2A antisense RNA 1']), ('transcript_id', ['NR_033910.1']), ('db_xref', ['GeneID:100130275', 'HGNC:HGNC:40579'])])
+
+Tipo de feature: gene
+Localização: [9327:27882](+)
+Qualifiers: OrderedDict([('gene', ['TFAP2A']), ('gene_synonym', ['AP-2; AP-2alpha; AP2TF; BOFS; TFAP2']), ('note', ['transcription factor AP-2 alpha']), ('db_xref', ['GeneID:7020', 'HGNC:HGNC:11742', 'MIM:107580'])])
+
+Tipo de feature: mRNA
+Localização: join{[9327:9624](+), [14229:14664](+), [17720:17772](+), [19825:20057](+), [21954:22073](+), [23975:24117](+), [25859:27882](+)}
+Qualifiers: OrderedDict([('gene', ['TFAP2A']), ('gene_synonym', ['AP-2; AP-2alpha; AP2TF; BOFS; TFAP2']), ('product', ['transcription factor AP-2 alpha, transcript variant 1']), ('transcript_id', ['NM_003220.2']), ('db_xref', ['GeneID:7020', 'HGNC:HGNC:11742', 'MIM:107580'])])
+
+Tipo de feature: exon
+Localização: [9327:9624](+)
+Qualifiers: OrderedDict([('gene', ['TFAP2A']), ('gene_synonym', ['AP-2; AP-2alpha; AP2TF; BOFS; TFAP2']), ('inference', ['alignment:Splign:2.1.0']), ('number', ['1'])])
+
+Tipo de feature: CDS
+Localização: join{[9579:9624](+), [14229:14664](+), [17720:17772](+), [19825:20057](+), [21954:22073](+), [23975:24117](+), [25859:26148](+)}
+Qualifiers: OrderedDict([('gene', ['TFAP2A']), ('gene_synonym', ['AP-2; AP-2alpha; AP2TF; BOFS; TFAP2']), ('note', ['isoform a is encoded by transcript variant 1; AP2-alpha; activator protein 2; AP-2 transcription factor; activating enhancer-binding protein 2-alpha; transcription factor AP-2 alpha (activating enhancer binding protein 2 alpha)']), ('codon_start', ['1']), ('product', ['transcription factor AP-2-alpha isoform a']), ('protein_id', ['NP_003211.1']), ('db_xref', ['GeneID:7020', 'HGNC:HGNC:11742', 'MIM:107580']), ('translation', ['MLWKLTDNIKYEDCEDRHDGTSNGTARLPQLGTVGQSPYTSAPPLSHTPNADFQPPYFPPPYQPIYPQSQDPYSHVNDPYSLNPLHAQPQPQHPGWPGQRQSQESGLLHTHRGLPHQLSGLDPRRDYRRHEDLLHGPHALSSGLGDLSIHSLPHAIEEVPHVEDPGINIPDQTVIKKGPVSLSKSNSNAVSAIPINKDNLFGGVVNPNEVFCSVPGRLSLLSSTSKYKVTVAEVQRRLSPPECLNASLLGGVLRRAKSKNGGRSLREKLDKIGLNLPAGRRKAANVTLLTSLVEGEAVHLARDFGYVCETEFPAKAVAEFLNRQHSDPNEQVTRKNMLLATKQICKEFTDLLAQDRSPLGNSRPNPILEPGIQSCLTHFNLISHGFGSPAVCAAVTALQNYLTEALKAMDKMYLSNNPNSHTDNNAKSSDKEEKHRK'])])
+
+Tipo de feature: exon
+Localização: [14229:14664](+)
+Qualifiers: OrderedDict([('gene', ['TFAP2A']), ('gene_synonym', ['AP-2; AP-2alpha; AP2TF; BOFS; TFAP2']), ('inference', ['alignment:Splign:2.1.0']), ('number', ['2'])])
+
+Tipo de feature: gene
+Localização: [16637:20063](-)
+Qualifiers: OrderedDict([('gene', ['TFAP2A-AS2']), ('gene_synonym', ['HIPSTR']), ('note', ['TFAP2A antisense RNA 2']), ('db_xref', ['GeneID:109729173', 'HGNC:HGNC:52289', 'MIM:617136'])])
+
+Tipo de feature: ncRNA
+Localização: [16637:20063](-)
+Qualifiers: OrderedDict([('ncRNA_class', ['lncRNA']), ('gene', ['TFAP2A-AS2']), ('gene_synonym', ['HIPSTR']), ('product', ['TFAP2A antisense RNA 2']), ('transcript_id', ['NR_145448.1']), ('db_xref', ['GeneID:109729173', 'HGNC:HGNC:52289', 'MIM:617136'])])
+
+Tipo de feature: exon
+Localização: [17720:17772](+)
+Qualifiers: OrderedDict([('gene', ['TFAP2A']), ('gene_synonym', ['AP-2; AP-2alpha; AP2TF; BOFS; TFAP2']), ('inference', ['alignment:Splign:2.1.0']), ('number', ['3'])])
+
+Tipo de feature: exon
+Localização: [19825:20057](+)
+Qualifiers: OrderedDict([('gene', ['TFAP2A']), ('gene_synonym', ['AP-2; AP-2alpha; AP2TF; BOFS; TFAP2']), ('inference', ['alignment:Splign:2.1.0']), ('number', ['4'])])
+
+Tipo de feature: exon
+Localização: [21954:22073](+)
+Qualifiers: OrderedDict([('gene', ['TFAP2A']), ('gene_synonym', ['AP-2; AP-2alpha; AP2TF; BOFS; TFAP2']), ('inference', ['alignment:Splign:2.1.0']), ('number', ['5'])])
+
+Tipo de feature: exon
+Localização: [23975:24117](+)
+Qualifiers: OrderedDict([('gene', ['TFAP2A']), ('gene_synonym', ['AP-2; AP-2alpha; AP2TF; BOFS; TFAP2']), ('inference', ['alignment:Splign:2.1.0']), ('number', ['6'])])
+
+Tipo de feature: exon
+Localização: [25859:27882](+)
+Qualifiers: OrderedDict([('gene', ['TFAP2A']), ('gene_synonym', ['AP-2; AP-2alpha; AP2TF; BOFS; TFAP2']), ('inference', ['alignment:Splign:2.1.0']), ('number', ['7'])])
+
+O gene em análise tem: 1 features do tipo source
+O gene em análise tem: 3 features do tipo gene
+O gene em análise tem: 2 features do tipo ncRNA
+O gene em análise tem: 1 features do tipo mRNA
+O gene em análise tem: 7 features do tipo exon
+O gene em análise tem: 1 features do tipo CDS
+
+molecule_type:DNA
+
+topology:linear
+
+data_file_division:PRI
+
+date:14-OCT-2019
+
+accessions:['NG_016151']
+
+sequence_version:1
+
+keywords:['RefSeq', 'RefSeqGene']
+
+source:Homo sapiens (human)
+
+organism:Homo sapiens
+
+taxonomy:['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+
+references:[Reference(title='Branchiooculofacial Syndrome', ...), Reference(title='Microphthalmia/Anophthalmia/Coloboma Spectrum', ...), Reference(title='Cloning and expression of AP-2, a cell-type-specific transcription factor that activates inducible enhancer elements', ...)]
+
+comment:REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+reference sequence was derived from AL138885.21.
+This sequence is a reference standard in the RefSeqGene project.
+Summary: The protein encoded by this gene is a transcription factor
+that binds the consensus sequence 5'-GCCNNNGGC-3'. The encoded
+protein functions as either a homodimer or as a heterodimer with
+similar family members. This protein activates the transcription of
+some genes while inhibiting the transcription of others. Defects in
+this gene are a cause of branchiooculofacial syndrome (BOFS). Three
+transcript variants encoding different isoforms have been found for
+this gene.[provided by RefSeq, Dec 2009].

@@ -1,0 +1,119 @@
+Tipo de feature: source
+Localização: [0:143017](+)
+Qualifiers: OrderedDict([('organism', ['Homo sapiens']), ('mol_type', ['genomic DNA']), ('db_xref', ['taxon:9606']), ('chromosome', ['2']), ('map', ['2q22.3'])])
+
+Tipo de feature: gene
+Localização: [<0:3524](-)
+Qualifiers: OrderedDict([('gene', ['LINC01412']), ('note', ['long intergenic non-protein coding RNA 1412']), ('db_xref', ['GeneID:101928455', 'HGNC:HGNC:50704'])])
+
+Tipo de feature: gene
+Localização: [947:1848](+)
+Qualifiers: OrderedDict([('gene', ['LOC105373656']), ('note', ['uncharacterized LOC105373656']), ('db_xref', ['GeneID:105373656'])])
+
+Tipo de feature: ncRNA
+Localização: join{[947:1005](+), [1563:1848](+)}
+Qualifiers: OrderedDict([('ncRNA_class', ['lncRNA']), ('gene', ['LOC105373656']), ('product', ['uncharacterized LOC105373656']), ('transcript_id', ['NR_136320.1']), ('db_xref', ['GeneID:105373656'])])
+
+Tipo de feature: ncRNA
+Localização: [<3465:3524](-)
+Qualifiers: OrderedDict([('ncRNA_class', ['lncRNA']), ('gene', ['LINC01412']), ('product', ['long intergenic non-protein coding RNA 1412']), ('inference', ['similar to RNA sequence (same species):RefSeq:NR_110570.1']), ('exception', ['annotated by transcript or proteomic data']), ('transcript_id', ['NR_110570.1']), ('db_xref', ['GeneID:101928455', 'HGNC:HGNC:50704'])])
+
+Tipo de feature: gene
+Localização: [4492:5778](-)
+Qualifiers: OrderedDict([('gene', ['ZEB2-AS1']), ('gene_synonym', ['ZEB2-AS; ZEB2AS; ZEB2NAT']), ('note', ['ZEB2 antisense RNA 1']), ('db_xref', ['GeneID:100303491', 'HGNC:HGNC:37149'])])
+
+Tipo de feature: ncRNA
+Localização: join{[5717:5778](-), [5281:5433](-), [5106:5177](-), [4492:4638](-)}
+Qualifiers: OrderedDict([('ncRNA_class', ['lncRNA']), ('gene', ['ZEB2-AS1']), ('gene_synonym', ['ZEB2-AS; ZEB2AS; ZEB2NAT']), ('product', ['ZEB2 antisense RNA 1']), ('transcript_id', ['NR_040248.2']), ('db_xref', ['GeneID:100303491', 'HGNC:HGNC:37149'])])
+
+Tipo de feature: gene
+Localização: [5272:141311](+)
+Qualifiers: OrderedDict([('gene', ['ZEB2']), ('gene_synonym', ['HSPC082; SIP-1; SIP1; SMADIP1; ZFHX1B']), ('note', ['zinc finger E-box binding homeobox 2']), ('db_xref', ['GeneID:9839', 'HGNC:HGNC:14881', 'MIM:605802'])])
+
+Tipo de feature: mRNA
+Localização: join{[5272:5453](+), [7972:8114](+), [95365:95623](+), [100524:100596](+), [120367:120556](+), [121261:121476](+), [124084:124193](+), [125121:127091](+), [128799:128980](+), [135363:141311](+)}
+Qualifiers: OrderedDict([('gene', ['ZEB2']), ('gene_synonym', ['HSPC082; SIP-1; SIP1; SMADIP1; ZFHX1B']), ('product', ['zinc finger E-box binding homeobox 2, transcript variant 1']), ('transcript_id', ['NM_014795.4']), ('db_xref', ['GeneID:9839', 'HGNC:HGNC:14881', 'MIM:605802'])])
+
+Tipo de feature: exon
+Localização: [5272:5453](+)
+Qualifiers: OrderedDict([('gene', ['ZEB2']), ('gene_synonym', ['HSPC082; SIP-1; SIP1; SMADIP1; ZFHX1B']), ('inference', ['alignment:Splign:2.1.0']), ('number', ['1'])])
+
+Tipo de feature: exon
+Localização: [7972:8114](+)
+Qualifiers: OrderedDict([('gene', ['ZEB2']), ('gene_synonym', ['HSPC082; SIP-1; SIP1; SMADIP1; ZFHX1B']), ('inference', ['alignment:Splign:2.1.0']), ('number', ['2'])])
+
+Tipo de feature: CDS
+Localização: join{[8041:8114](+), [95365:95623](+), [100524:100596](+), [120367:120556](+), [121261:121476](+), [124084:124193](+), [125121:127091](+), [128799:128980](+), [135363:135941](+)}
+Qualifiers: OrderedDict([('gene', ['ZEB2']), ('gene_synonym', ['HSPC082; SIP-1; SIP1; SMADIP1; ZFHX1B']), ('note', ['isoform 1 is encoded by transcript variant 1; zinc finger homeobox 1b; Smad-interacting protein 1; SMAD interacting protein 1']), ('codon_start', ['1']), ('product', ['zinc finger E-box-binding homeobox 2 isoform 1']), ('protein_id', ['NP_055610.1']), ('db_xref', ['CCDS:CCDS2186.1', 'GeneID:9839', 'HGNC:HGNC:14881', 'MIM:605802']), ('translation', ['MKQPIMADGPRCKRRKQANPRRKNVVNYDNVVDTGSETDEEDKLHIAEDDGIANPLDQETSPASVPNHESSPHVSQALLPREEEEDEIREGGVEHPWHNNEILQASVDGPEEMKEDYDTMGPEATIQTAINNGTVKNANCTSDFEEYFAKRKLEERDGHAVSIEEYLQRSDTAIIYPEAPEELSRLGTPEANGQEENDLPPGTPDAFAQLLTCPYCDRGYKRLTSLKEHIKYRHEKNEENFSCPLCSYTFAYRTQLERHMVTHKPGTDQHQMLTQGAGNRKFKCTECGKAFKYKHHLKEHLRIHSGEKPYECPNCKKRFSHSGSYSSHISSKKCIGLISVNGRMRNNIKTGSSPNSVSSSPTNSAITQLRNKLENGKPLSMSEQTGLLKIKTEPLDFNDYKVLMATHGFSGTSPFMNGGLGATSPLGVHPSAQSPMQHLGVGMEAPLLGFPTMNSNLSEVQKVLQIVDNTVSRQKMDCKAEEISKLKGYHMKDPCSQPEEQGVTSPNIPPVGLPVVSHNGATKSIIDYTLEKVNEAKACLQSLTTDSRRQISNIKKEKLRTLIDLVTDDKMIENHNISTPFSCQFCKESFPGPIPLHQHERYLCKMNEEIKAVLQPHENIVPNKAGVFVDNKALLLSSVLSEKGMTSPINPYKDHMSVLKAYYAMNMEPNSDELLKISIAVGLPQEFVKEWFEQRKVYQYSNSRSPSLERSSKPLAPNSNPPTKDSLLPRSPVKPMDSITSPSIAELHNSVTNCDPPLRLTKPSHFTNIKPVEKLDHSRSNTPSPLNLSSTSSKNSHSSSYTPNSFSSEELQAEPLDLSLPKQMKEPKSIIATKNKTKASSISLDHNSVSSSSENSDEPLNLTFIKKEFSNSNNLDNKSTNPVFSMNPFSAKPLYTALPPQSAFPPATFMPPVQTSIPGLRPYPGLDQMSFLPHMAYTYPTGAATFADMQQRRKYQRKQGFQGELLDGAQDYMSGLDDMTDSDSCLSRKKIKKTESGMYACDLCDKTFQKSSSLLRHKYEHTGKRPHQCQICKKAFKHKHHLIEHSRLHSGEKPYQCDKCGKRFSHSGSYSQHMNHRYSYCKREAEEREAAEREAREKGHLEPTELLMNRAYLQSITPQGYSDSEERESMPRDGESEKEHEKEGEDGYGKLGRQDGDEEFEEEEEESENKSMDTDPETIRDEEETGDHSMDDSSEDGKMETKSDHEEDNMEDGM'])])
+
+Tipo de feature: exon
+Localização: [95365:95623](+)
+Qualifiers: OrderedDict([('gene', ['ZEB2']), ('gene_synonym', ['HSPC082; SIP-1; SIP1; SMADIP1; ZFHX1B']), ('inference', ['alignment:Splign:2.1.0']), ('number', ['3'])])
+
+Tipo de feature: exon
+Localização: [100524:100596](+)
+Qualifiers: OrderedDict([('gene', ['ZEB2']), ('gene_synonym', ['HSPC082; SIP-1; SIP1; SMADIP1; ZFHX1B']), ('inference', ['alignment:Splign:2.1.0']), ('number', ['4'])])
+
+Tipo de feature: exon
+Localização: [120367:120556](+)
+Qualifiers: OrderedDict([('gene', ['ZEB2']), ('gene_synonym', ['HSPC082; SIP-1; SIP1; SMADIP1; ZFHX1B']), ('inference', ['alignment:Splign:2.1.0']), ('number', ['5'])])
+
+Tipo de feature: exon
+Localização: [121261:121476](+)
+Qualifiers: OrderedDict([('gene', ['ZEB2']), ('gene_synonym', ['HSPC082; SIP-1; SIP1; SMADIP1; ZFHX1B']), ('inference', ['alignment:Splign:2.1.0']), ('number', ['6'])])
+
+Tipo de feature: exon
+Localização: [124084:124193](+)
+Qualifiers: OrderedDict([('gene', ['ZEB2']), ('gene_synonym', ['HSPC082; SIP-1; SIP1; SMADIP1; ZFHX1B']), ('inference', ['alignment:Splign:2.1.0']), ('number', ['7'])])
+
+Tipo de feature: exon
+Localização: [125121:127091](+)
+Qualifiers: OrderedDict([('gene', ['ZEB2']), ('gene_synonym', ['HSPC082; SIP-1; SIP1; SMADIP1; ZFHX1B']), ('inference', ['alignment:Splign:2.1.0']), ('number', ['8'])])
+
+Tipo de feature: exon
+Localização: [128799:128980](+)
+Qualifiers: OrderedDict([('gene', ['ZEB2']), ('gene_synonym', ['HSPC082; SIP-1; SIP1; SMADIP1; ZFHX1B']), ('inference', ['alignment:Splign:2.1.0']), ('number', ['9'])])
+
+Tipo de feature: exon
+Localização: [135363:141311](+)
+Qualifiers: OrderedDict([('gene', ['ZEB2']), ('gene_synonym', ['HSPC082; SIP-1; SIP1; SMADIP1; ZFHX1B']), ('inference', ['alignment:Splign:2.1.0']), ('number', ['10'])])
+
+O gene em análise tem: 1 features do tipo source
+O gene em análise tem: 4 features do tipo gene
+O gene em análise tem: 3 features do tipo ncRNA
+O gene em análise tem: 1 features do tipo mRNA
+O gene em análise tem: 10 features do tipo exon
+O gene em análise tem: 1 features do tipo CDS
+
+molecule_type:DNA
+
+topology:linear
+
+data_file_division:PRI
+
+date:24-AUG-2019
+
+accessions:['NG_016431']
+
+sequence_version:1
+
+keywords:['RefSeq', 'RefSeqGene']
+
+source:Homo sapiens (human)
+
+organism:Homo sapiens
+
+taxonomy:['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+
+references:[Reference(title='Hirschsprung Disease Overview', ...), Reference(title='Mowat-Wilson Syndrome', ...)]
+
+comment:REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+reference sequence was derived from AC009951.10 and AC010130.12.
+This sequence is a reference standard in the RefSeqGene project.
+Summary: The protein encoded by this gene is a member of the Zfh1
+family of 2-handed zinc finger/homeodomain proteins. It is located
+in the nucleus and functions as a DNA-binding transcriptional
+repressor that interacts with activated SMADs. Mutations in this
+gene are associated with Hirschsprung disease/Mowat-Wilson
+syndrome. Alternatively spliced transcript variants have been found
+for this gene.[provided by RefSeq, Jan 2010].
