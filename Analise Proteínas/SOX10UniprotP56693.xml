@@ -1,0 +1,1638 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1999-07-15" modified="2019-12-11" version="194">
+<accession>P56693</accession>
+<accession>B4DV62</accession>
+<accession>Q6FHW7</accession>
+<name>SOX10_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Transcription factor SOX-10</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">SOX10</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1998" name="Nat. Genet." volume="18" first="171" last="173">
+<title>SOX10 mutations in patients with Waardenburg-Hirschsprung disease.</title>
+<authorList>
+<person name="Pingault V."/>
+<person name="Bondurand N."/>
+<person name="Kuhlbrodt K."/>
+<person name="Goerich D.E."/>
+<person name="Prehu M.O."/>
+<person name="Puliti A."/>
+<person name="Herbarth B."/>
+<person name="Hermans-Borgmeyer I."/>
+<person name="Legius E."/>
+<person name="Matthijs G."/>
+<person name="Amiel J."/>
+<person name="Lyonnet S."/>
+<person name="Ceccherini I."/>
+<person name="Romeo G."/>
+<person name="Clayton-Smith J."/>
+<person name="Read A.P."/>
+<person name="Wegner M."/>
+<person name="Goossens M."/>
+</authorList>
+<dbReference type="PubMed" id="9462749"/>
+<dbReference type="DOI" id="10.1038/ng0298-171"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)</scope>
+<scope>VARIANT WS4C LEU-ARG-161 INS</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1998" name="Hum. Genet." volume="103" first="115" last="123">
+<title>The SOX10/Sox10 gene from human and mouse: sequence, expression, and transactivation by the encoded HMG domain transcription factor.</title>
+<authorList>
+<person name="Pusch C."/>
+<person name="Hustert E."/>
+<person name="Pfeifer D."/>
+<person name="Sudbeck P."/>
+<person name="Kist R."/>
+<person name="Roe B."/>
+<person name="Wang Z."/>
+<person name="Balling R."/>
+<person name="Blin N."/>
+<person name="Scherer G."/>
+</authorList>
+<dbReference type="PubMed" id="9760192"/>
+<dbReference type="DOI" id="10.1007/s004390050793"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2004" name="Genome Biol." volume="5" first="R84.1" last="R84.11">
+<title>A genome annotation-driven approach to cloning the human ORFeome.</title>
+<authorList>
+<person name="Collins J.E."/>
+<person name="Wright C.L."/>
+<person name="Edwards C.A."/>
+<person name="Davis M.P."/>
+<person name="Grinham J.A."/>
+<person name="Cole C.G."/>
+<person name="Goward M.E."/>
+<person name="Aguado B."/>
+<person name="Mallya M."/>
+<person name="Mokrab Y."/>
+<person name="Huckle E.J."/>
+<person name="Beare D.M."/>
+<person name="Dunham I."/>
+</authorList>
+<dbReference type="PubMed" id="15461802"/>
+<dbReference type="DOI" id="10.1186/gb-2004-5-10-r84"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1)</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2004" name="Nat. Genet." volume="36" first="40" last="45">
+<title>Complete sequencing and characterization of 21,243 full-length human cDNAs.</title>
+<authorList>
+<person name="Ota T."/>
+<person name="Suzuki Y."/>
+<person name="Nishikawa T."/>
+<person name="Otsuki T."/>
+<person name="Sugiyama T."/>
+<person name="Irie R."/>
+<person name="Wakamatsu A."/>
+<person name="Hayashi K."/>
+<person name="Sato H."/>
+<person name="Nagai K."/>
+<person name="Kimura K."/>
+<person name="Makita H."/>
+<person name="Sekine M."/>
+<person name="Obayashi M."/>
+<person name="Nishi T."/>
+<person name="Shibahara T."/>
+<person name="Tanaka T."/>
+<person name="Ishii S."/>
+<person name="Yamamoto J."/>
+<person name="Saito K."/>
+<person name="Kawai Y."/>
+<person name="Isono Y."/>
+<person name="Nakamura Y."/>
+<person name="Nagahari K."/>
+<person name="Murakami K."/>
+<person name="Yasuda T."/>
+<person name="Iwayanagi T."/>
+<person name="Wagatsuma M."/>
+<person name="Shiratori A."/>
+<person name="Sudo H."/>
+<person name="Hosoiri T."/>
+<person name="Kaku Y."/>
+<person name="Kodaira H."/>
+<person name="Kondo H."/>
+<person name="Sugawara M."/>
+<person name="Takahashi M."/>
+<person name="Kanda K."/>
+<person name="Yokoi T."/>
+<person name="Furuya T."/>
+<person name="Kikkawa E."/>
+<person name="Omura Y."/>
+<person name="Abe K."/>
+<person name="Kamihara K."/>
+<person name="Katsuta N."/>
+<person name="Sato K."/>
+<person name="Tanikawa M."/>
+<person name="Yamazaki M."/>
+<person name="Ninomiya K."/>
+<person name="Ishibashi T."/>
+<person name="Yamashita H."/>
+<person name="Murakawa K."/>
+<person name="Fujimori K."/>
+<person name="Tanai H."/>
+<person name="Kimata M."/>
+<person name="Watanabe M."/>
+<person name="Hiraoka S."/>
+<person name="Chiba Y."/>
+<person name="Ishida S."/>
+<person name="Ono Y."/>
+<person name="Takiguchi S."/>
+<person name="Watanabe S."/>
+<person name="Yosida M."/>
+<person name="Hotuta T."/>
+<person name="Kusano J."/>
+<person name="Kanehori K."/>
+<person name="Takahashi-Fujii A."/>
+<person name="Hara H."/>
+<person name="Tanase T.-O."/>
+<person name="Nomura Y."/>
+<person name="Togiya S."/>
+<person name="Komai F."/>
+<person name="Hara R."/>
+<person name="Takeuchi K."/>
+<person name="Arita M."/>
+<person name="Imose N."/>
+<person name="Musashino K."/>
+<person name="Yuuki H."/>
+<person name="Oshima A."/>
+<person name="Sasaki N."/>
+<person name="Aotsuka S."/>
+<person name="Yoshikawa Y."/>
+<person name="Matsunawa H."/>
+<person name="Ichihara T."/>
+<person name="Shiohata N."/>
+<person name="Sano S."/>
+<person name="Moriya S."/>
+<person name="Momiyama H."/>
+<person name="Satoh N."/>
+<person name="Takami S."/>
+<person name="Terashima Y."/>
+<person name="Suzuki O."/>
+<person name="Nakagawa S."/>
+<person name="Senoh A."/>
+<person name="Mizoguchi H."/>
+<person name="Goto Y."/>
+<person name="Shimizu F."/>
+<person name="Wakebe H."/>
+<person name="Hishigaki H."/>
+<person name="Watanabe T."/>
+<person name="Sugiyama A."/>
+<person name="Takemoto M."/>
+<person name="Kawakami B."/>
+<person name="Yamazaki M."/>
+<person name="Watanabe K."/>
+<person name="Kumagai A."/>
+<person name="Itakura S."/>
+<person name="Fukuzumi Y."/>
+<person name="Fujimori Y."/>
+<person name="Komiyama M."/>
+<person name="Tashiro H."/>
+<person name="Tanigami A."/>
+<person name="Fujiwara T."/>
+<person name="Ono T."/>
+<person name="Yamada K."/>
+<person name="Fujii Y."/>
+<person name="Ozaki K."/>
+<person name="Hirao M."/>
+<person name="Ohmori Y."/>
+<person name="Kawabata A."/>
+<person name="Hikiji T."/>
+<person name="Kobatake N."/>
+<person name="Inagaki H."/>
+<person name="Ikema Y."/>
+<person name="Okamoto S."/>
+<person name="Okitani R."/>
+<person name="Kawakami T."/>
+<person name="Noguchi S."/>
+<person name="Itoh T."/>
+<person name="Shigeta K."/>
+<person name="Senba T."/>
+<person name="Matsumura K."/>
+<person name="Nakajima Y."/>
+<person name="Mizuno T."/>
+<person name="Morinaga M."/>
+<person name="Sasaki M."/>
+<person name="Togashi T."/>
+<person name="Oyama M."/>
+<person name="Hata H."/>
+<person name="Watanabe M."/>
+<person name="Komatsu T."/>
+<person name="Mizushima-Sugano J."/>
+<person name="Satoh T."/>
+<person name="Shirai Y."/>
+<person name="Takahashi Y."/>
+<person name="Nakagawa K."/>
+<person name="Okumura K."/>
+<person name="Nagase T."/>
+<person name="Nomura N."/>
+<person name="Kikuchi H."/>
+<person name="Masuho Y."/>
+<person name="Yamashita R."/>
+<person name="Nakai K."/>
+<person name="Yada T."/>
+<person name="Nakamura Y."/>
+<person name="Ohara O."/>
+<person name="Isogai T."/>
+<person name="Sugano S."/>
+</authorList>
+<dbReference type="PubMed" id="14702039"/>
+<dbReference type="DOI" id="10.1038/ng1285"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2)</scope>
+<source>
+<tissue>Small intestine</tissue>
+</source>
+</reference>
+<reference key="5">
+<citation type="submission" date="2004-06" db="EMBL/GenBank/DDBJ databases">
+<title>Cloning of human full open reading frames in Gateway(TM) system entry vector (pDONR201).</title>
+<authorList>
+<person name="Ebert L."/>
+<person name="Schick M."/>
+<person name="Neubert P."/>
+<person name="Schatten R."/>
+<person name="Henze S."/>
+<person name="Korn B."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1)</scope>
+</reference>
+<reference key="6">
+<citation type="submission" date="2004-10" db="EMBL/GenBank/DDBJ databases">
+<title>Cloning of human full-length CDSs in BD Creator(TM) system donor vector.</title>
+<authorList>
+<person name="Kalnine N."/>
+<person name="Chen X."/>
+<person name="Rolfs A."/>
+<person name="Halleck A."/>
+<person name="Hines L."/>
+<person name="Eisenstein S."/>
+<person name="Koundinya M."/>
+<person name="Raphael J."/>
+<person name="Moreira D."/>
+<person name="Kelley T."/>
+<person name="LaBaer J."/>
+<person name="Lin Y."/>
+<person name="Phelan M."/>
+<person name="Farmer A."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1)</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1999" name="Nature" volume="402" first="489" last="495">
+<title>The DNA sequence of human chromosome 22.</title>
+<authorList>
+<person name="Dunham I."/>
+<person name="Hunt A.R."/>
+<person name="Collins J.E."/>
+<person name="Bruskiewich R."/>
+<person name="Beare D.M."/>
+<person name="Clamp M."/>
+<person name="Smink L.J."/>
+<person name="Ainscough R."/>
+<person name="Almeida J.P."/>
+<person name="Babbage A.K."/>
+<person name="Bagguley C."/>
+<person name="Bailey J."/>
+<person name="Barlow K.F."/>
+<person name="Bates K.N."/>
+<person name="Beasley O.P."/>
+<person name="Bird C.P."/>
+<person name="Blakey S.E."/>
+<person name="Bridgeman A.M."/>
+<person name="Buck D."/>
+<person name="Burgess J."/>
+<person name="Burrill W.D."/>
+<person name="Burton J."/>
+<person name="Carder C."/>
+<person name="Carter N.P."/>
+<person name="Chen Y."/>
+<person name="Clark G."/>
+<person name="Clegg S.M."/>
+<person name="Cobley V.E."/>
+<person name="Cole C.G."/>
+<person name="Collier R.E."/>
+<person name="Connor R."/>
+<person name="Conroy D."/>
+<person name="Corby N.R."/>
+<person name="Coville G.J."/>
+<person name="Cox A.V."/>
+<person name="Davis J."/>
+<person name="Dawson E."/>
+<person name="Dhami P.D."/>
+<person name="Dockree C."/>
+<person name="Dodsworth S.J."/>
+<person name="Durbin R.M."/>
+<person name="Ellington A.G."/>
+<person name="Evans K.L."/>
+<person name="Fey J.M."/>
+<person name="Fleming K."/>
+<person name="French L."/>
+<person name="Garner A.A."/>
+<person name="Gilbert J.G.R."/>
+<person name="Goward M.E."/>
+<person name="Grafham D.V."/>
+<person name="Griffiths M.N.D."/>
+<person name="Hall C."/>
+<person name="Hall R.E."/>
+<person name="Hall-Tamlyn G."/>
+<person name="Heathcott R.W."/>
+<person name="Ho S."/>
+<person name="Holmes S."/>
+<person name="Hunt S.E."/>
+<person name="Jones M.C."/>
+<person name="Kershaw J."/>
+<person name="Kimberley A.M."/>
+<person name="King A."/>
+<person name="Laird G.K."/>
+<person name="Langford C.F."/>
+<person name="Leversha M.A."/>
+<person name="Lloyd C."/>
+<person name="Lloyd D.M."/>
+<person name="Martyn I.D."/>
+<person name="Mashreghi-Mohammadi M."/>
+<person name="Matthews L.H."/>
+<person name="Mccann O.T."/>
+<person name="Mcclay J."/>
+<person name="Mclaren S."/>
+<person name="McMurray A.A."/>
+<person name="Milne S.A."/>
+<person name="Mortimore B.J."/>
+<person name="Odell C.N."/>
+<person name="Pavitt R."/>
+<person name="Pearce A.V."/>
+<person name="Pearson D."/>
+<person name="Phillimore B.J.C.T."/>
+<person name="Phillips S.H."/>
+<person name="Plumb R.W."/>
+<person name="Ramsay H."/>
+<person name="Ramsey Y."/>
+<person name="Rogers L."/>
+<person name="Ross M.T."/>
+<person name="Scott C.E."/>
+<person name="Sehra H.K."/>
+<person name="Skuce C.D."/>
+<person name="Smalley S."/>
+<person name="Smith M.L."/>
+<person name="Soderlund C."/>
+<person name="Spragon L."/>
+<person name="Steward C.A."/>
+<person name="Sulston J.E."/>
+<person name="Swann R.M."/>
+<person name="Vaudin M."/>
+<person name="Wall M."/>
+<person name="Wallis J.M."/>
+<person name="Whiteley M.N."/>
+<person name="Willey D.L."/>
+<person name="Williams L."/>
+<person name="Williams S.A."/>
+<person name="Williamson H."/>
+<person name="Wilmer T.E."/>
+<person name="Wilming L."/>
+<person name="Wright C.L."/>
+<person name="Hubbard T."/>
+<person name="Bentley D.R."/>
+<person name="Beck S."/>
+<person name="Rogers J."/>
+<person name="Shimizu N."/>
+<person name="Minoshima S."/>
+<person name="Kawasaki K."/>
+<person name="Sasaki T."/>
+<person name="Asakawa S."/>
+<person name="Kudoh J."/>
+<person name="Shintani A."/>
+<person name="Shibuya K."/>
+<person name="Yoshizaki Y."/>
+<person name="Aoki N."/>
+<person name="Mitsuyama S."/>
+<person name="Roe B.A."/>
+<person name="Chen F."/>
+<person name="Chu L."/>
+<person name="Crabtree J."/>
+<person name="Deschamps S."/>
+<person name="Do A."/>
+<person name="Do T."/>
+<person name="Dorman A."/>
+<person name="Fang F."/>
+<person name="Fu Y."/>
+<person name="Hu P."/>
+<person name="Hua A."/>
+<person name="Kenton S."/>
+<person name="Lai H."/>
+<person name="Lao H.I."/>
+<person name="Lewis J."/>
+<person name="Lewis S."/>
+<person name="Lin S.-P."/>
+<person name="Loh P."/>
+<person name="Malaj E."/>
+<person name="Nguyen T."/>
+<person name="Pan H."/>
+<person name="Phan S."/>
+<person name="Qi S."/>
+<person name="Qian Y."/>
+<person name="Ray L."/>
+<person name="Ren Q."/>
+<person name="Shaull S."/>
+<person name="Sloan D."/>
+<person name="Song L."/>
+<person name="Wang Q."/>
+<person name="Wang Y."/>
+<person name="Wang Z."/>
+<person name="White J."/>
+<person name="Willingham D."/>
+<person name="Wu H."/>
+<person name="Yao Z."/>
+<person name="Zhan M."/>
+<person name="Zhang G."/>
+<person name="Chissoe S."/>
+<person name="Murray J."/>
+<person name="Miller N."/>
+<person name="Minx P."/>
+<person name="Fulton R."/>
+<person name="Johnson D."/>
+<person name="Bemis G."/>
+<person name="Bentley D."/>
+<person name="Bradshaw H."/>
+<person name="Bourne S."/>
+<person name="Cordes M."/>
+<person name="Du Z."/>
+<person name="Fulton L."/>
+<person name="Goela D."/>
+<person name="Graves T."/>
+<person name="Hawkins J."/>
+<person name="Hinds K."/>
+<person name="Kemp K."/>
+<person name="Latreille P."/>
+<person name="Layman D."/>
+<person name="Ozersky P."/>
+<person name="Rohlfing T."/>
+<person name="Scheet P."/>
+<person name="Walker C."/>
+<person name="Wamsley A."/>
+<person name="Wohldmann P."/>
+<person name="Pepin K."/>
+<person name="Nelson J."/>
+<person name="Korf I."/>
+<person name="Bedell J.A."/>
+<person name="Hillier L.W."/>
+<person name="Mardis E."/>
+<person name="Waterston R."/>
+<person name="Wilson R."/>
+<person name="Emanuel B.S."/>
+<person name="Shaikh T."/>
+<person name="Kurahashi H."/>
+<person name="Saitta S."/>
+<person name="Budarf M.L."/>
+<person name="McDermid H.E."/>
+<person name="Johnson A."/>
+<person name="Wong A.C.C."/>
+<person name="Morrow B.E."/>
+<person name="Edelmann L."/>
+<person name="Kim U.J."/>
+<person name="Shizuya H."/>
+<person name="Simon M.I."/>
+<person name="Dumanski J.P."/>
+<person name="Peyrard M."/>
+<person name="Kedra D."/>
+<person name="Seroussi E."/>
+<person name="Fransson I."/>
+<person name="Tapia I."/>
+<person name="Bruder C.E."/>
+<person name="O'Brien K.P."/>
+<person name="Wilkinson P."/>
+<person name="Bodenteich A."/>
+<person name="Hartman K."/>
+<person name="Hu X."/>
+<person name="Khan A.S."/>
+<person name="Lane L."/>
+<person name="Tilahun Y."/>
+<person name="Wright H."/>
+</authorList>
+<dbReference type="PubMed" id="10591208"/>
+<dbReference type="DOI" id="10.1038/990031"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1)</scope>
+<source>
+<tissue>Placenta</tissue>
+<tissue>Skin</tissue>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1998" name="J. Biol. Chem." volume="273" first="23033" last="23038">
+<title>Functional analysis of Sox10 mutations found in human Waardenburg-Hirschsprung patients.</title>
+<authorList>
+<person name="Kuhlbrodt K."/>
+<person name="Schmidt C."/>
+<person name="Sock E."/>
+<person name="Pingault V."/>
+<person name="Bondurand N."/>
+<person name="Goossens M."/>
+<person name="Wegner M."/>
+</authorList>
+<dbReference type="PubMed" id="9722528"/>
+<dbReference type="DOI" id="10.1074/jbc.273.36.23033"/>
+</citation>
+<scope>CHARACTERIZATION</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2002" name="Mol. Cell. Biol." volume="22" first="5826" last="5834">
+<title>Sox10 is an active nucleocytoplasmic shuttle protein, and shuttling is crucial for Sox10-mediated transactivation.</title>
+<authorList>
+<person name="Rehberg S."/>
+<person name="Lischka P."/>
+<person name="Glaser G."/>
+<person name="Stamminger T."/>
+<person name="Wegner M."/>
+<person name="Rosorius O."/>
+</authorList>
+<dbReference type="PubMed" id="12138193"/>
+<dbReference type="DOI" id="10.1128/mcb.22.16.5826-5834.2002"/>
+</citation>
+<scope>NUCLEOCYTOPLASMIC SHUTTLING</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2009" name="Mol. Cell. Proteomics" volume="8" first="1751" last="1764">
+<title>Large-scale proteomics analysis of the human kinome.</title>
+<authorList>
+<person name="Oppermann F.S."/>
+<person name="Gnad F."/>
+<person name="Olsen J.V."/>
+<person name="Hornberger R."/>
+<person name="Greff Z."/>
+<person name="Keri G."/>
+<person name="Mann M."/>
+<person name="Daub H."/>
+</authorList>
+<dbReference type="PubMed" id="19369195"/>
+<dbReference type="DOI" id="10.1074/mcp.m800588-mcp200"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-24</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2012" name="Hum. Genet." volume="131" first="491" last="503">
+<title>Functional analysis of Waardenburg syndrome-associated PAX3 and SOX10 mutations: report of a dominant-negative SOX10 mutation in Waardenburg syndrome type II.</title>
+<authorList>
+<person name="Zhang H."/>
+<person name="Chen H."/>
+<person name="Luo H."/>
+<person name="An J."/>
+<person name="Sun L."/>
+<person name="Mei L."/>
+<person name="He C."/>
+<person name="Jiang L."/>
+<person name="Jiang W."/>
+<person name="Xia K."/>
+<person name="Li J.D."/>
+<person name="Feng Y."/>
+</authorList>
+<dbReference type="PubMed" id="21965087"/>
+<dbReference type="DOI" id="10.1007/s00439-011-1098-2"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH PAX3</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="1999" name="Hum. Mol. Genet." volume="8" first="1785" last="1789">
+<title>A molecular analysis of the Yemenite deaf-blind hypopigmentation syndrome: SOX10 dysfunction causes different neurocristopathies.</title>
+<authorList>
+<person name="Bondurand N."/>
+<person name="Kuhlbrodt K."/>
+<person name="Pingault V."/>
+<person name="Enderich J."/>
+<person name="Sajus M."/>
+<person name="Tommerup N."/>
+<person name="Warburg M."/>
+<person name="Hennekam R.C.M."/>
+<person name="Read A.P."/>
+<person name="Wegner M."/>
+<person name="Goossens M."/>
+</authorList>
+<dbReference type="PubMed" id="10441344"/>
+<dbReference type="DOI" id="10.1093/hmg/8.9.1785"/>
+</citation>
+<scope>VARIANT WS2E THR-135</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2000" name="Am. J. Hum. Genet." volume="66" first="1496" last="1503">
+<title>Neurological phenotype in Waardenburg syndrome type 4 correlates with novel SOX10 truncating mutations and expression in developing brain.</title>
+<authorList>
+<person name="Touraine R.L."/>
+<person name="Attie-Bitach T."/>
+<person name="Manceau E."/>
+<person name="Korsch E."/>
+<person name="Sarda P."/>
+<person name="Pingault V."/>
+<person name="Encha-Razavi F."/>
+<person name="Pelet A."/>
+<person name="Auge J."/>
+<person name="Nivelon-Chevallier A."/>
+<person name="Holschneider A.M."/>
+<person name="Munnes M."/>
+<person name="Doerfler W."/>
+<person name="Goossens M."/>
+<person name="Munnich A."/>
+<person name="Vekemans M."/>
+<person name="Lyonnet S."/>
+</authorList>
+<dbReference type="PubMed" id="10762540"/>
+<dbReference type="DOI" id="10.1086/302895"/>
+</citation>
+<scope>INVOLVEMENT IN PCWH</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2000" name="Am. J. Hum. Genet." volume="66" first="2020" last="2020">
+<authorList>
+<person name="Touraine R.L."/>
+<person name="Attie-Bitach T."/>
+<person name="Manceau E."/>
+<person name="Korsch E."/>
+<person name="Sarda P."/>
+<person name="Pingault V."/>
+<person name="Encha-Razavi F."/>
+<person name="Pelet A."/>
+<person name="Auge J."/>
+<person name="Nivelon-Chevallier A."/>
+<person name="Holschneider A.M."/>
+<person name="Munnes M."/>
+<person name="Doerfler W."/>
+<person name="Goossens M."/>
+<person name="Munnich A."/>
+<person name="Vekemans M."/>
+<person name="Lyonnet S."/>
+</authorList>
+</citation>
+<scope>ERRATUM</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2004" name="Nat. Genet." volume="36" first="361" last="369">
+<title>Molecular mechanism for distinct neurological phenotypes conveyed by allelic truncating mutations.</title>
+<authorList>
+<person name="Inoue K."/>
+<person name="Khajavi M."/>
+<person name="Ohyama T."/>
+<person name="Hirabayashi S."/>
+<person name="Wilson J."/>
+<person name="Reggin J.D."/>
+<person name="Mancias P."/>
+<person name="Butler I.J."/>
+<person name="Wilkinson M.F."/>
+<person name="Wegner M."/>
+<person name="Lupski J.R."/>
+</authorList>
+<dbReference type="PubMed" id="15004559"/>
+<dbReference type="DOI" id="10.1038/ng1322"/>
+</citation>
+<scope>INVOLVEMENT IN PCWH</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2007" name="Am. J. Hum. Genet." volume="81" first="1169" last="1185">
+<title>Deletions at the SOX10 gene locus cause Waardenburg syndrome types 2 and 4.</title>
+<authorList>
+<person name="Bondurand N."/>
+<person name="Dastot-Le Moal F."/>
+<person name="Stanchina L."/>
+<person name="Collot N."/>
+<person name="Baral V."/>
+<person name="Marlin S."/>
+<person name="Attie-Bitach T."/>
+<person name="Giurgea I."/>
+<person name="Skopinski L."/>
+<person name="Reardon W."/>
+<person name="Toutain A."/>
+<person name="Sarda P."/>
+<person name="Echaieb A."/>
+<person name="Lackmy-Port-Lis M."/>
+<person name="Touraine R."/>
+<person name="Amiel J."/>
+<person name="Goossens M."/>
+<person name="Pingault V."/>
+</authorList>
+<dbReference type="PubMed" id="17999358"/>
+<dbReference type="DOI" id="10.1086/522090"/>
+</citation>
+<scope>INVOLVEMENT IN WS2E</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2008" name="Am. J. Med. Genet. A" volume="146" first="1032" last="1037">
+<title>A de novo missense mutation in the gene encoding the SOX10 transcription factor in a Spanish sporadic case of Waardenburg syndrome type IV.</title>
+<authorList>
+<person name="Morin M."/>
+<person name="Vinuela A."/>
+<person name="Rivera T."/>
+<person name="Villamar M."/>
+<person name="Moreno-Pelayo M.A."/>
+<person name="Moreno F."/>
+<person name="del Castillo I."/>
+</authorList>
+<dbReference type="PubMed" id="18348274"/>
+<dbReference type="DOI" id="10.1002/ajmg.a.32181"/>
+</citation>
+<scope>VARIANT WS4C VAL-157</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="2009" name="Am. J. Med. Genet. A" volume="149" first="431" last="436">
+<title>Aplasia of cochlear nerves and olfactory bulbs in association with SOX10 mutation.</title>
+<authorList>
+<person name="Barnett C.P."/>
+<person name="Mendoza-Londono R."/>
+<person name="Blaser S."/>
+<person name="Gillis J."/>
+<person name="Dupuis L."/>
+<person name="Levin A.V."/>
+<person name="Chiang P.W."/>
+<person name="Spector E."/>
+<person name="Reardon W."/>
+</authorList>
+<dbReference type="PubMed" id="19208381"/>
+<dbReference type="DOI" id="10.1002/ajmg.a.32657"/>
+</citation>
+<scope>VARIANT PCWH PRO-174</scope>
+</reference>
+<reference key="20">
+<citation type="journal article" date="2011" name="Hum. Mutat." volume="32" first="1436" last="1449">
+<title>Identification and functional analysis of SOX10 missense mutations in different subtypes of Waardenburg syndrome.</title>
+<authorList>
+<person name="Chaoui A."/>
+<person name="Watanabe Y."/>
+<person name="Touraine R."/>
+<person name="Baral V."/>
+<person name="Goossens M."/>
+<person name="Pingault V."/>
+<person name="Bondurand N."/>
+</authorList>
+<dbReference type="PubMed" id="21898658"/>
+<dbReference type="DOI" id="10.1002/humu.21583"/>
+</citation>
+<scope>VARIANTS WS4C TRP-106; PRO-145 AND VAL-157</scope>
+<scope>VARIANTS WS2E ILE-112 AND HIS-161</scope>
+<scope>VARIANTS PCWH ILE-112; HIS-131; ASN-150; PRO-174; ALA-175; LEU-175; ARG-175 AND ARG-321</scope>
+<scope>CHARACTERIZATION OF VARIANTS WS4C TRP-106; PRO-145 AND VAL-157</scope>
+<scope>CHARACTERIZATION OF VARIANTS WS2E ILE-112 AND HIS-161</scope>
+<scope>CHARACTERIZATION OF VARIANTS PCWH HIS-131; ASN-150; PRO-174; ALA-175; LEU-175 AND ARG-175</scope>
+</reference>
+<reference key="21">
+<citation type="journal article" date="2014" name="J. Clin. Endocrinol. Metab." volume="99" first="E2138" last="2143">
+<title>The prevalence of CHD7 missense versus truncating mutations is higher in patients with Kallmann syndrome than in typical CHARGE patients.</title>
+<authorList>
+<person name="Marcos S."/>
+<person name="Sarfati J."/>
+<person name="Leroy C."/>
+<person name="Fouveaut C."/>
+<person name="Parent P."/>
+<person name="Metz C."/>
+<person name="Wolczynski S."/>
+<person name="Gerard M."/>
+<person name="Bieth E."/>
+<person name="Kurtz F."/>
+<person name="Verier-Mine O."/>
+<person name="Perrin L."/>
+<person name="Archambeaud F."/>
+<person name="Cabrol S."/>
+<person name="Rodien P."/>
+<person name="Hove H."/>
+<person name="Prescott T."/>
+<person name="Lacombe D."/>
+<person name="Christin-Maitre S."/>
+<person name="Touraine P."/>
+<person name="Hieronimus S."/>
+<person name="Dewailly D."/>
+<person name="Young J."/>
+<person name="Pugeat M."/>
+<person name="Hardelin J.P."/>
+<person name="Dode C."/>
+</authorList>
+<dbReference type="PubMed" id="25077900"/>
+<dbReference type="DOI" id="10.1210/jc.2014-2110"/>
+</citation>
+<scope>VARIANTS THR-108; VAL-111; GLY-135; CYS-151 AND CYS-161</scope>
+</reference>
+<comment type="function">
+<text evidence="2 12">Transcription factor that plays a central role in developing and mature glia. Specifically activates expression of myelin genes, during oligodendrocyte (OL) maturation, such as DUSP15 and MYRF, thereby playing a central role in oligodendrocyte maturation and CNS myelination. Once induced, MYRF cooperates with SOX10 to implement the myelination program. Transcriptional activator of MITF, acting synergistically with PAX3 (PubMed:21965087).</text>
+</comment>
+<comment type="subunit">
+<text evidence="2 12">Monomer. Interacts with ARMCX3 at the mitochondrial outer membrane surface. Interacts with PAX3 (PubMed:21965087).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1167533"/>
+<interactant intactId="EBI-1167533"/>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1167533"/>
+<interactant intactId="EBI-372942">
+<id>Q13287</id>
+<label>NMI</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1167533"/>
+<interactant intactId="EBI-1167564">
+<id>P23760</id>
+<label>PAX3</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1167533"/>
+<interactant intactId="EBI-1167176">
+<id>P20265</id>
+<label>POU3F2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1167533"/>
+<interactant intactId="EBI-80140">
+<id>P63165</id>
+<label>SUMO1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1167533"/>
+<interactant intactId="EBI-80168">
+<id>P63279</id>
+<label>UBE2I</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="6">Cytoplasm</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="6">Nucleus</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="2">Mitochondrion outer membrane</location>
+<topology evidence="2">Peripheral membrane protein</topology>
+<orientation evidence="2">Cytoplasmic side</orientation>
+</subcellularLocation>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>P56693-1</id>
+<name>1</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>P56693-2</id>
+<name>2</name>
+<sequence type="described" ref="VSP_053874"/>
+</isoform>
+</comment>
+<comment type="tissue specificity">
+<text>Expressed in fetal brain and in adult brain, heart, small intestine and colon.</text>
+</comment>
+<comment type="disease" evidence="4 8 11">
+<disease id="DI-01137">
+<name>Waardenburg syndrome 2E</name>
+<acronym>WS2E</acronym>
+<description>An autosomal dominant auditory-pigmentary disorder characterized by sensorineural deafness, pigmentary disturbances of the hair, skin and eyes, and absence of dystopia canthorum which is the lateral displacement of the inner canthus of each eye. Individuals with WS2E may have neurologic abnormalities, including mental impairment, myelination defects, and ataxia. Some patients can manifest features of Kallmann syndrome.</description>
+<dbReference type="MIM" id="611584"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="9 11 14">
+<disease id="DI-02676">
+<name>Waardenburg syndrome 4C</name>
+<acronym>WS4C</acronym>
+<description>A disorder characterized by the association of Waardenburg features (depigmentation and deafness) with the absence of enteric ganglia in the distal part of the intestine (Hirschsprung disease).</description>
+<dbReference type="MIM" id="613266"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="5 7 10 11">
+<disease id="DI-00909">
+<name>Peripheral demyelinating neuropathy, central dysmyelinating leukodystrophy, Waardenburg syndrome and Hirschsprung disease</name>
+<acronym>PCWH</acronym>
+<description>A complex neurocristopathy that includes features of 4 distinct syndromes: peripheral demyelinating neuropathy, central dysmyelinating leukodystrophy, Waardenburg syndrome and Hirschsprung disease.</description>
+<dbReference type="MIM" id="609136"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="online information" name="Atlas of Genetics and Cytogenetics in Oncology and Haematology">
+<link uri="http://atlasgeneticsoncology.org/Genes/SOX10ID43768ch22q13.html"/>
+</comment>
+<dbReference type="EMBL" id="AJ001183">
+<property type="protein sequence ID" value="CAA04576.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CR456584">
+<property type="protein sequence ID" value="CAG30470.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BT020029">
+<property type="protein sequence ID" value="AAV38832.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AK300945">
+<property type="protein sequence ID" value="BAG62574.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CR536571">
+<property type="protein sequence ID" value="CAG38808.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL031587">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC002824">
+<property type="protein sequence ID" value="AAH02824.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC007595">
+<property type="protein sequence ID" value="AAH07595.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS13964.1">
+<molecule id="P56693-1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_008872.1">
+<molecule id="P56693-1"/>
+<property type="nucleotide sequence ID" value="NM_006941.3"/>
+</dbReference>
+<dbReference type="SMR" id="P56693"/>
+<dbReference type="BioGrid" id="112546">
+<property type="interactions" value="9"/>
+</dbReference>
+<dbReference type="IntAct" id="P56693">
+<property type="interactions" value="14"/>
+</dbReference>
+<dbReference type="MINT" id="P56693"/>
+<dbReference type="STRING" id="9606.ENSP00000380093"/>
+<dbReference type="iPTMnet" id="P56693"/>
+<dbReference type="PhosphoSitePlus" id="P56693"/>
+<dbReference type="BioMuta" id="SOX10"/>
+<dbReference type="DMDM" id="6175075"/>
+<dbReference type="jPOST" id="P56693"/>
+<dbReference type="MassIVE" id="P56693"/>
+<dbReference type="MaxQB" id="P56693"/>
+<dbReference type="PaxDb" id="P56693"/>
+<dbReference type="PeptideAtlas" id="P56693"/>
+<dbReference type="PRIDE" id="P56693"/>
+<dbReference type="ProteomicsDB" id="5245"/>
+<dbReference type="ProteomicsDB" id="56933">
+<molecule id="P56693-1"/>
+</dbReference>
+<dbReference type="DNASU" id="6663"/>
+<dbReference type="Ensembl" id="ENST00000360880">
+<molecule id="P56693-1"/>
+<property type="protein sequence ID" value="ENSP00000354130"/>
+<property type="gene ID" value="ENSG00000100146"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000396884">
+<molecule id="P56693-1"/>
+<property type="protein sequence ID" value="ENSP00000380093"/>
+<property type="gene ID" value="ENSG00000100146"/>
+</dbReference>
+<dbReference type="GeneID" id="6663"/>
+<dbReference type="KEGG" id="hsa:6663"/>
+<dbReference type="UCSC" id="uc003aun.2">
+<molecule id="P56693-1"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="6663"/>
+<dbReference type="DisGeNET" id="6663"/>
+<dbReference type="EuPathDB" id="HostDB:ENSG00000100146.16"/>
+<dbReference type="GeneCards" id="SOX10"/>
+<dbReference type="GeneReviews" id="SOX10"/>
+<dbReference type="HGNC" id="HGNC:11190">
+<property type="gene designation" value="SOX10"/>
+</dbReference>
+<dbReference type="HPA" id="CAB003171"/>
+<dbReference type="HPA" id="HPA068898"/>
+<dbReference type="MalaCards" id="SOX10"/>
+<dbReference type="MIM" id="602229">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="MIM" id="609136">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="611584">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="613266">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_P56693"/>
+<dbReference type="OpenTargets" id="ENSG00000100146"/>
+<dbReference type="Orphanet" id="478">
+<property type="disease" value="Kallmann syndrome"/>
+</dbReference>
+<dbReference type="Orphanet" id="163746">
+<property type="disease" value="Peripheral demyelinating neuropathy-central dysmyelinating leukodystrophy-Waardenburg syndrome-Hirschsprung disease"/>
+</dbReference>
+<dbReference type="Orphanet" id="895">
+<property type="disease" value="Waardenburg syndrome type 2"/>
+</dbReference>
+<dbReference type="Orphanet" id="897">
+<property type="disease" value="Waardenburg-Shah syndrome"/>
+</dbReference>
+<dbReference type="PharmGKB" id="PA36027"/>
+<dbReference type="eggNOG" id="KOG0527">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410XT0K">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00940000158046"/>
+<dbReference type="HOGENOM" id="HOG000108876"/>
+<dbReference type="InParanoid" id="P56693"/>
+<dbReference type="KO" id="K09270"/>
+<dbReference type="OMA" id="PYYGHAG"/>
+<dbReference type="OrthoDB" id="782373at2759"/>
+<dbReference type="PhylomeDB" id="P56693"/>
+<dbReference type="SignaLink" id="P56693"/>
+<dbReference type="SIGNOR" id="P56693"/>
+<dbReference type="GeneWiki" id="SOX10"/>
+<dbReference type="GenomeRNAi" id="6663"/>
+<dbReference type="Pharos" id="P56693">
+<property type="development level" value="Tbio"/>
+</dbReference>
+<dbReference type="PRO" id="PR:P56693"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 22"/>
+</dbReference>
+<dbReference type="RNAct" id="P56693">
+<property type="molecule type" value="protein"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000100146">
+<property type="expression patterns" value="Expressed in 177 organ(s), highest expression level in inferior olivary complex"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="P56693">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="P56693">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031315">
+<property type="term" value="C:extrinsic component of mitochondrial outer membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000790">
+<property type="term" value="C:nuclear chromatin"/>
+<property type="evidence" value="ECO:0000247"/>
+<property type="project" value="NTNU_SB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005654">
+<property type="term" value="C:nucleoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001228">
+<property type="term" value="F:DNA-binding transcription activator activity, RNA polymerase II-specific"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003700">
+<property type="term" value="F:DNA-binding transcription factor activity"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000981">
+<property type="term" value="F:DNA-binding transcription factor activity, RNA polymerase II-specific"/>
+<property type="evidence" value="ECO:0000247"/>
+<property type="project" value="NTNU_SB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042802">
+<property type="term" value="F:identical protein binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="IntAct"/>
+</dbReference>
+<dbReference type="GO" id="GO:1990841">
+<property type="term" value="F:promoter-specific chromatin binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000978">
+<property type="term" value="F:RNA polymerase II cis-regulatory region sequence-specific DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003713">
+<property type="term" value="F:transcription coactivator activity"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ProtInc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008134">
+<property type="term" value="F:transcription factor binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009653">
+<property type="term" value="P:anatomical structure morphogenesis"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ProtInc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048469">
+<property type="term" value="P:cell maturation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071393">
+<property type="term" value="P:cellular response to progesterone stimulus"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0022010">
+<property type="term" value="P:central nervous system myelination"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048589">
+<property type="term" value="P:developmental growth"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048546">
+<property type="term" value="P:digestive tract morphogenesis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048484">
+<property type="term" value="P:enteric nervous system development"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001701">
+<property type="term" value="P:in utero embryonic development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032808">
+<property type="term" value="P:lacrimal gland development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030318">
+<property type="term" value="P:melanocyte differentiation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0061138">
+<property type="term" value="P:morphogenesis of a branching epithelium"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002009">
+<property type="term" value="P:morphogenesis of an epithelium"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043066">
+<property type="term" value="P:negative regulation of apoptotic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090090">
+<property type="term" value="P:negative regulation of canonical Wnt signaling pathway"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010626">
+<property type="term" value="P:negative regulation of Schwann cell proliferation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045892">
+<property type="term" value="P:negative regulation of transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001755">
+<property type="term" value="P:neural crest cell migration"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0014003">
+<property type="term" value="P:oligodendrocyte development"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048709">
+<property type="term" value="P:oligodendrocyte differentiation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007422">
+<property type="term" value="P:peripheral nervous system development"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0014015">
+<property type="term" value="P:positive regulation of gliogenesis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031643">
+<property type="term" value="P:positive regulation of myelination"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002052">
+<property type="term" value="P:positive regulation of neuroblast proliferation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045944">
+<property type="term" value="P:positive regulation of transcription by RNA polymerase II"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045893">
+<property type="term" value="P:positive regulation of transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006357">
+<property type="term" value="P:regulation of transcription by RNA polymerase II"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ProtInc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006368">
+<property type="term" value="P:transcription elongation from RNA polymerase II promoter"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.30.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR009071">
+<property type="entry name" value="HMG_box_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036910">
+<property type="entry name" value="HMG_box_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR022151">
+<property type="entry name" value="Sox_N"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00505">
+<property type="entry name" value="HMG_box"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF12444">
+<property type="entry name" value="Sox_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00398">
+<property type="entry name" value="HMG"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF47095">
+<property type="entry name" value="SSF47095"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50118">
+<property type="entry name" value="HMG_BOX_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0209">Deafness</keyword>
+<keyword id="KW-0225">Disease mutation</keyword>
+<keyword id="KW-0238">DNA-binding</keyword>
+<keyword id="KW-0367">Hirschsprung disease</keyword>
+<keyword id="KW-0956">Kallmann syndrome</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0496">Mitochondrion</keyword>
+<keyword id="KW-1000">Mitochondrion outer membrane</keyword>
+<keyword id="KW-0539">Nucleus</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0804">Transcription</keyword>
+<keyword id="KW-0805">Transcription regulation</keyword>
+<keyword id="KW-0897">Waardenburg syndrome</keyword>
+<feature type="chain" description="Transcription factor SOX-10" id="PRO_0000048746">
+<location>
+<begin position="1"/>
+<end position="466"/>
+</location>
+</feature>
+<feature type="DNA-binding region" description="HMG box" evidence="3">
+<location>
+<begin position="104"/>
+<end position="172"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="Nuclear export signal">
+<location>
+<begin position="134"/>
+<end position="145"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Gly">
+<location>
+<begin position="35"/>
+<end position="41"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="1">
+<location>
+<position position="24"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_053874" evidence="15">
+<location>
+<begin position="262"/>
+<end position="441"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In WS4C; loss of DNA binding and transactivation capacity." id="VAR_066747" evidence="11">
+<original>R</original>
+<variation>W</variation>
+<location>
+<position position="106"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Found in a patient with Kallmann syndrome." id="VAR_072981" evidence="13">
+<original>M</original>
+<variation>T</variation>
+<location>
+<position position="108"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Found in a patient with Kallmann syndrome." id="VAR_072982" evidence="13">
+<original>F</original>
+<variation>V</variation>
+<location>
+<position position="111"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In WS2E and PCWH; increased DNA binding capacity." id="VAR_066748" evidence="11">
+<original>M</original>
+<variation>I</variation>
+<location>
+<position position="112"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PCWH; reduced DNA binding capacity." id="VAR_066749" evidence="11">
+<original>N</original>
+<variation>H</variation>
+<location>
+<position position="131"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Found in a patient with Kallmann syndrome." id="VAR_072983" evidence="13">
+<original>S</original>
+<variation>G</variation>
+<location>
+<position position="135"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In WS2E; without neurologic involvement; dbSNP:rs74315515." id="VAR_021386" evidence="4">
+<original>S</original>
+<variation>T</variation>
+<location>
+<position position="135"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In WS4C; loss of DNA binding and transactivation capacity." id="VAR_066750" evidence="11">
+<original>L</original>
+<variation>P</variation>
+<location>
+<position position="145"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PCWH; loss of DNA binding and transactivation capacity." id="VAR_066751" evidence="11">
+<original>K</original>
+<variation>N</variation>
+<location>
+<position position="150"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Found in a patient with Kallmann syndrome; dbSNP:rs1463736052." id="VAR_072984" evidence="13">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="151"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In WS4C; loss of DNA binding and transactivation capacity; dbSNP:rs121909117." id="VAR_066752" evidence="9 11">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="157"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Found in a patient with Kallmann syndrome." id="VAR_072985" evidence="13">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="161"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In WS2E; reduced DNA binding capacity; dbSNP:rs750566714." id="VAR_066753" evidence="11">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="161"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In WS4C." id="VAR_003743" evidence="14">
+<original>R</original>
+<variation>RLR</variation>
+<location>
+<position position="161"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PCWH; without Hirschsprung disease; reduced DNA binding capacity; dbSNP:rs267607081." id="VAR_066754" evidence="10 11">
+<original>Q</original>
+<variation>P</variation>
+<location>
+<position position="174"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PCWH; reduced DNA binding capacity." id="VAR_066755" evidence="11">
+<original>P</original>
+<variation>A</variation>
+<location>
+<position position="175"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PCWH; reduced DNA binding capacity." id="VAR_066756" evidence="11">
+<original>P</original>
+<variation>L</variation>
+<location>
+<position position="175"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PCWH; reduced DNA binding capacity." id="VAR_066757" evidence="11">
+<original>P</original>
+<variation>R</variation>
+<location>
+<position position="175"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PCWH." id="VAR_066758" evidence="11">
+<original>G</original>
+<variation>R</variation>
+<location>
+<position position="321"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 5; CAG38808." ref="5" evidence="16">
+<original>P</original>
+<variation>L</variation>
+<location>
+<position position="222"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 5; CAG38808." ref="5" evidence="16">
+<original>T</original>
+<variation>M</variation>
+<location>
+<position position="461"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="19369195"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q04888"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00267"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10441344"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10762540"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12138193"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15004559"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17999358"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18348274"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19208381"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21898658"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21965087"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25077900"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9462749"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="14702039"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000305"/>
+<sequence length="466" mass="49911" checksum="FAA1EC108D4DE6A1" modified="1999-07-15" version="1">MAEEQDLSEVELSPVGSEEPRCLSPGSAPSLGPDGGGGGSGLRASPGPGELGKVKKEQQDGEADDDKFPVCIREAVSQVLSGYDWTLVPMPVRVNGASKSKPHVKRPMNAFMVWAQAARRKLADQYPHLHNAELSKTLGKLWRLLNESDKRPFIEEAERLRMQHKKDHPDYKYQPRRRKNGKAAQGEAECPGGEAEQGGTAAIQAHYKSAHLDHRHPGEGSPMSDGNPEHPSGQSHGPPTPPTTPKTELQSGKADPKRDGRSMGEGGKPHIDFGNVDIGEISHEVMSNMETFDVAELDQYLPPNGHPGHVSSYSAAGYGLGSALAVASGHSAWISKPPGVALPTVSPPGVDAKAQVKTETAGPQGPPHYTDQPSTSQIAYTSLSLPHYGSAFPSISRPQFDYSDHQPSGPYYGHSGQASGLYSAFSYMGPSQRPLYTAISDPSPSGPQSHSPTHWEQPVYTTLSRP</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
